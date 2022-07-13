@@ -1,4 +1,4 @@
-## ManulToken ERC-20 
+## AutoToken ERC-20 
 This is a faster implementation of an ERC-20 token named AutoToke (symbol: AT) using the OpenZeppelin ERC-20 library that should conform to the [ERC-20 specification](https://eips.ethereum.org/EIPS/eip-20).
 
 ## Getting Started
